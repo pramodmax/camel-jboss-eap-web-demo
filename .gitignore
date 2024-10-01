@@ -1,0 +1,103 @@
+# Maven target directory
+/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven-specific files
+mvnw
+mvnw.cmd
+/.mvn/
+
+# Eclipse/IntelliJ IDEA specific files
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code specific files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# JBoss EAP server logs and temporary directories
+standalone/tmp/
+standalone/log/
+
+# Application properties secrets (if applicable)
+# Uncomment if you want to exclude application.properties or sensitive config files
+# /src/main/resources/application.properties
+
+# Ignore JAR, WAR, and other binaries
+*.jar
+*.war
+*.ear
+*.rar
+
+# Build and packaging artifacts
+*.tar.gz
+*.zip
+
+# Ignore generated sources
+/generated-sources/
+
+# Ignore binary files
+*.class
+*.o
+*.so
+*.dll
+
+# JetBrains IDEA-specific project files
+.idea/
+*.iml
+
+# Ignore IDE-specific config and temp files
+.vscode/
+
+
+# IntelliJ IDEA-specific files
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# AWS User-specific
+.idea/**/aws.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Caches
+.idea/**/xml
+.idea/**/dataSources
+.idea/**/dataSources.local
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
