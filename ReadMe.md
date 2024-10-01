@@ -1,4 +1,4 @@
-Camel Java Router Project
+Camel - JBoss EAP demo project
 =========================
 
 === How to build
