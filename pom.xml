@@ -123,7 +123,7 @@
   </dependencies>
 
   <build>
-    <finalName>camel-file-poller</finalName>
+    <finalName>camel-jboss-eap-web-demo</finalName>
     <plugins>
       <!-- Plugin for packaging the WAR -->
       <plugin>
